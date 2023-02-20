@@ -113,12 +113,7 @@ sections:
     design:
       columns: '2'
       view: card
-  
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+ 
       
   - block: accomplishments
     content:
